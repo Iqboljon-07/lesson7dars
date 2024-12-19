@@ -1,0 +1,19 @@
+.home svg{
+
+color:red;
+
+}
+/* 
+.air {
+
+    color:blue !important
+} */
+
+.home .air{
+    color:blue;
+} 
+
+#idea{
+
+    color:grey
+}
